@@ -1,0 +1,2 @@
+Pose-model files in this folder come from the npm package @mediapipe/pose (version 0.5.1675469404), Google LLC, listed as Apache-2.0 in the package's package.json.
+They are unmodified and are used to find body landmarks in your browser. The package as downloaded did not include a separate licence file; the Apache License 2.0 text and the upstream notices are available from https://github.com/google-ai-edge/mediapipe. Add the licence text here before distributing the site more widely.

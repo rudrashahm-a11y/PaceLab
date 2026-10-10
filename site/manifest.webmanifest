@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "PaceLab Cricket",
+  "short_name": "PaceLab",
+  "description": "Estimate cricket bowling speed from video you time yourself, and track your results. Estimates only, not a radar gun.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#101411",
+  "theme_color": "#101411",
+  "categories": ["sports"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
